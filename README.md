@@ -1,8 +1,17 @@
 # 📊 Marketing A/B Testing Analysis
 
-This project analyzes the effectiveness of a marketing advertisement campaign using **A/B testing**.  
-Users were split into two groups — those who saw **ads** (`ad`) and those who saw a **public service announcement** (`psa`).  
+This project analyzes the effectiveness of a marketing advertisement campaign using **A/B testing**. Users were split into two groups those who saw **ads** (`ad`) and those who saw a **public service announcement** (`psa`).  
 The objective is to determine whether the advertisements increased conversions and how impactful the campaign was.
+
+---
+## Problem
+
+Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they tun A/B tests, that is a randomized experimentation process wherein two or more versions of a variable (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
+
+The companies are interested in answering two questions:
+
+- Would the campaign be successful?
+- If the campaign was successful, how much of that success could be attributed to the ads?
 
 ---
 
