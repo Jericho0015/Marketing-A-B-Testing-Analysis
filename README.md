@@ -1,10 +1,10 @@
-# 📊 Marketing A/B Testing Analysis
+# Marketing A/B Testing Analysis
 
 This project analyzes the effectiveness of a marketing advertisement campaign using **A/B testing**. Users were split into two groups those who saw **ads** (`ad`) and those who saw a **public service announcement** (`psa`).  
 The objective is to determine whether the advertisements increased conversions and how impactful the campaign was.
 
 ---
-## Problem
+## Campaign Analysis
 
 Marketing companies want to run successful campaigns, but the market is complex and several options can work. So normally they tun A/B tests, that is a randomized experimentation process wherein two or more versions of a variable (web page, page element, banner, etc.) are shown to different segments of people at the same time to determine which version leaves the maximum impact and drive business metrics.
 
@@ -15,7 +15,7 @@ The companies are interested in answering two questions:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Determine if the marketing campaign was successful.
 - Compare conversion rates between the advertisement group and the control group.
@@ -24,7 +24,7 @@ The companies are interested in answering two questions:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 | Column Name       | Description |
 |-------------------|-------------|
@@ -37,7 +37,7 @@ The companies are interested in answering two questions:
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Purpose | Library |
 |--------|--------|
@@ -45,11 +45,10 @@ The companies are interested in answering two questions:
 | Visualization | `matplotlib`, `seaborn` |
 | Statistical Testing | `scipy.stats`, `statsmodels` |
 | Development | Jupyter Notebook |
-| Presentation Output | `python-pptx` |
 
 ---
 
-## 🔍 Analysis Workflow
+## Analysis Workflow
 
 ### 1. **Univariate Analysis**
 Explored distribution of individual variables using:
@@ -82,7 +81,7 @@ Because normality assumptions were not met:
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### Test Group Distribution
 ![Test Group Count](images/test_group_count.png)
@@ -107,7 +106,7 @@ Because normality assumptions were not met:
 
 ---
 
-## 📦 How to Run the Project
+## How to Run the Project
 
 ```bash
 git clone https://github.com/yourusername/marketing-ab-testing.git
