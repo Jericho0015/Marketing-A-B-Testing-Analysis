@@ -84,8 +84,7 @@ Because normality assumptions were not met:
 ## Visualizations
 
 ### Test Group Distribution
-![Test Group Count](images/test_group_count.png)
-![Test Group Pie](images/test_group_pie.png)
+![Test Group Count & Pie](https://github.com/Jericho0015/Marketing-A-B-Testing-Analysis/blob/main/Graphs/Test_Group_bar_pie.PNG)
 
 ### Conversion Distribution
 ![Conversion Count](images/converted_count.png)
