@@ -87,12 +87,13 @@ Because normality assumptions were not met:
 ![Test Group Count & Pie](https://github.com/Jericho0015/Marketing-A-B-Testing-Analysis/blob/main/Graphs/Test_Group_bar_pie.PNG)
 
 ### Conversion Distribution
-![Conversion Count](images/converted_count.png)
-![Conversion Pie](images/converted_pie.png)
+![Conversion Count](https://github.com/Jericho0015/Marketing-A-B-Testing-Analysis/blob/main/Graphs/Conversion_bar_PieCapture.PNG)
 
 ### Most Ads Day Distribution
-![Most Ads Day Count](images/most_ads_day_count.png)
-![Most Ads Day Pie](images/most_ads_day_pie.png)
+![Most Ads Day Count & Pie](https://github.com/Jericho0015/Marketing-A-B-Testing-Analysis/blob/main/Graphs/Most_ads_Count.PNG)
+
+### Most Ads Hour Distribution
+![Most Ads Hour Count & Pie](https://github.com/Jericho0015/Marketing-A-B-Testing-Analysis/blob/main/Graphs/Most_ads_hour.PNG)
 
 ---
 
